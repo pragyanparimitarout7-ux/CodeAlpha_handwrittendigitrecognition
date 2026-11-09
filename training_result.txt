@@ -1,0 +1,2 @@
+MNIST CNN test accuracy: 99.16%
+Model: 2 Conv2D layers + MaxPooling + Dense layers
